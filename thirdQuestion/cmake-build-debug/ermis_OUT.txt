@@ -1,0 +1,16 @@
+ the value 12 is added
+ the value 3 is added
+ the value 4 is added
+ the value 5 is added
+ the value 1 is added
+ the value 23 is added
+ the value 55 is added
+ the value 91 is added
+ the value 2 is added
+ the value 34 is added
+ the value 56 is added
+ the value 44 is added
+-----------------------------RESULT-----------------------------
+1 2 3 4 
+91 56 55 44 
+34 23 12 5 
